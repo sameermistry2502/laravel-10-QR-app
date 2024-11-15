@@ -8,10 +8,6 @@ Watch video on Facebook: https://www.facebook.com/minit61</br>
 
 I will give you a very simple example of generating QR code with image, QR code with color, QR code with SMS, QR code with email, and QR code in Laravel 10
 
-## Output
-![App Screenshot](https://i.postimg.cc/9MQBzGCg/qr-code-generator.png)
-
-
 ## Installation
 
 **[Step - 1]** **Create new Project:**<br/>
